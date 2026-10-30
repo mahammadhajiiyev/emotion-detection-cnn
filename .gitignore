@@ -1,0 +1,6 @@
+build/
+dist/
+*.exe
+*.pkg
+*.keras
+__pycache__/
